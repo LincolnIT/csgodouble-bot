@@ -11,11 +11,13 @@ Full site dark mode
 ![Screenshot](http://imgur.com/IvhxJ1f.png)
 
 ## How to install??????
+```
 1 - Open csgodouble.com in the main page (bets).
 2 - Open the console (SHIFT+CRTL+J)
 3 - Copy the code of csgodouble-bot.js and paste in console.
 4 - The page will change and you chose what you want and next click start. 
 After just need to leave page open and bot will do everyting. 100% profit 
+...
 
 ## Requirements
 Requires [Greasemonkey](http://www.greasespot.net/) on Firefox and [Tampermonkey](http://tampermonkey.net/) on Chrome.
