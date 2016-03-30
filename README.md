@@ -17,7 +17,7 @@ Full site dark mode
 3 - Copy the code of csgodouble-bot.js and paste in console.
 4 - The page will change and you chose what you want and next click start. 
 After just need to leave page open and bot will do everyting. 100% profit 
-...
+```
 
 ## Requirements
 Requires [Greasemonkey](http://www.greasespot.net/) on Firefox and [Tampermonkey](http://tampermonkey.net/) on Chrome.
