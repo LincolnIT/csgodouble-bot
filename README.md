@@ -1,5 +1,5 @@
 # CSGODouble-BOT
-### Userscript that bets for you! Automates betting on [CSGODouble](http://www.csgodouble.com/) (works with [CSGOPolygon](http://csgopolygon.com/)).
+### BOT THAT BETS AUTOMATIC ON CS GO DOUBLE. Profit 100% for sure
 
 Program interface
 ![Screenshot](http://imgur.com/IvhxJ1f.png)
